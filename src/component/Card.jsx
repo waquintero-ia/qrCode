@@ -11,7 +11,7 @@ const Card = () => {
               <div className="title text-22 leading-120 font-bold w-256 text-slate-900 text-center">
                 Improve your front-end skills by building projects
               </div>
-              <div className="description text-15 leading-140 text-center w-256 tracking-[0.2px]">
+              <div className="description text-15 leading-140 text-center w-256 tracking-[0.2px] text-slate-500">
                 Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
               </div>
             </div>
